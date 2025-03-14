@@ -1,3 +1,4 @@
+![Cool GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHoyZ3Z0aGx2ZmVyNnB1Ym11dGhhaWJrOGNmaDN4OWtsaDc5ZmZjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nQDKSeRlIyfmw/giphy.gif)
 
 # Hi there, I'm Abderahman 👋  <br><br>🚀 **Junior .NET Developer | Angular Developer | Web Enthusiast**  <br>💻 Passionate about building web applications & learning new technologies.  <br>🌱 Currently working on **Angular, .NET, and Node.js projects**.  
 
